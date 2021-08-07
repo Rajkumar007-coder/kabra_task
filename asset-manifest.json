@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kabra_task/static/css/main.e3876568.chunk.css",
+    "main.js": "/kabra_task/static/js/main.e984bd1d.chunk.js",
+    "main.js.map": "/kabra_task/static/js/main.e984bd1d.chunk.js.map",
+    "runtime-main.js": "/kabra_task/static/js/runtime-main.ea7b751c.js",
+    "runtime-main.js.map": "/kabra_task/static/js/runtime-main.ea7b751c.js.map",
+    "static/css/2.4be38407.chunk.css": "/kabra_task/static/css/2.4be38407.chunk.css",
+    "static/js/2.ca5a4fa0.chunk.js": "/kabra_task/static/js/2.ca5a4fa0.chunk.js",
+    "static/js/2.ca5a4fa0.chunk.js.map": "/kabra_task/static/js/2.ca5a4fa0.chunk.js.map",
+    "index.html": "/kabra_task/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/kabra_task/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.e3876568.chunk.css.map": "/kabra_task/static/css/main.e3876568.chunk.css.map",
+    "static/js/2.ca5a4fa0.chunk.js.LICENSE.txt": "/kabra_task/static/js/2.ca5a4fa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea7b751c.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.ca5a4fa0.chunk.js",
+    "static/css/main.e3876568.chunk.css",
+    "static/js/main.e984bd1d.chunk.js"
+  ]
+}
